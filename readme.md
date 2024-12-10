@@ -84,9 +84,9 @@ If you don't trust the terminal (noobs) then go to the folder where the git file
 echo "SESSION_ID=null
 CMD_REACT=true
 BOT_INFO=Astro;Xstro-Md;
-MODE=private
-AUTO_STATUS_READ=false
-AUTO_READ=false
+MODE=public
+AUTO_STATUS_READ=true
+AUTO_READ=true
 STICKER_PACK=Astro;Xstro
 PREFIX=./," > config.env
 ```
